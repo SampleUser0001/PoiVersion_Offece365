@@ -1,0 +1,2 @@
+# PoiVersion_Offece365
+Office365で更新したExcelファイルに対してPOIで読み込みできなかったので、バージョンの問題か確認する。
